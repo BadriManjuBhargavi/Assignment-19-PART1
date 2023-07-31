@@ -1,0 +1,8 @@
+C:\DAY 16\Assignment=18\Assignment=18\bin\Debug\Assignment=18.exe.config
+C:\DAY 16\Assignment=18\Assignment=18\bin\Debug\Assignment=18.exe
+C:\DAY 16\Assignment=18\Assignment=18\bin\Debug\Assignment=18.pdb
+C:\DAY 16\Assignment=18\Assignment=18\obj\Debug\Assignment=18.csproj.AssemblyReference.cache
+C:\DAY 16\Assignment=18\Assignment=18\obj\Debug\Assignment=18.csproj.SuggestedBindingRedirects.cache
+C:\DAY 16\Assignment=18\Assignment=18\obj\Debug\Assignment=18.csproj.CoreCompileInputs.cache
+C:\DAY 16\Assignment=18\Assignment=18\obj\Debug\Assignment=18.exe
+C:\DAY 16\Assignment=18\Assignment=18\obj\Debug\Assignment=18.pdb
